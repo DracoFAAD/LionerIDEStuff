@@ -1,0 +1,1168 @@
+{
+    "ShirtGraphic": [
+        ["Color3", "Color3"],
+        ["Graphic", "string"]
+    ],
+    "Humanoid": [
+        ["AutoJumpEnabled", "boolean"],
+        ["AutoRotate", "boolean"],
+        ["AutomaticScalingEnabled", "boolean"],
+        ["BreakJointsOnDeath", "boolean"],
+        ["CameraOffset", "Vector3"],
+        ["DisplayDistanceType", "EnumItem"],
+        ["DisplayName", "string"],
+        ["Health", "number"],
+        ["HealthDisplayDistance", "number"],
+        ["HealthDisplayType", "EnumItem"],
+        ["HipHeight", "number"],
+        ["Jump", "boolean"],
+        ["JumpHeight", "number"],
+        ["JumpPower", "number"],
+        ["MaxHealth", "number"],
+        ["MaxSlopeAngle", "number"],
+        ["NameDisplayDistance", "number"],
+        ["NameOcclusion", "EnumItem"],
+        ["PlatformStand", "boolean"],
+        ["RequiresNeck", "boolean"],
+        ["RigType", "EnumItem"],
+        ["Sit", "boolean"],
+        ["TargetPoint", "Vector3"],
+        ["UseJumpPower", "boolean"],
+        ["WalkSpeed", "number"],
+        ["WalkToPart", "nil"],
+        ["WalkToPoint", "Vector3"]
+    ],
+    "Highlight": [
+        ["Adornee", "nil"],
+        ["DepthMode", "EnumItem"],
+        ["Enabled", "boolean"],
+        ["FillColor", "Color3"],
+        ["FillTransparency", "number"],
+        ["OutlineColor", "Color3"],
+        ["OutlineTransparency", "number"]
+    ],
+    "MeshPart": [
+        ["TextureID", "string"]
+    ],
+    "AngularVelocity": [
+        ["AngularVelocity", "Vector3"],
+        ["MaxTorque", "number"],
+        ["ReactionTorqueEnabled", "boolean"],
+        ["RelativeTo", "EnumItem"]
+    ],
+    "CylinderHandleAdornment": [
+        ["Angle", "number"],
+        ["Height", "number"],
+        ["InnerRadius", "number"],
+        ["Radius", "number"]
+    ],
+    "BallSocketConstraint": [
+        ["LimitsEnabled", "boolean"],
+        ["MaxFrictionTorque", "number"],
+        ["Radius", "number"],
+        ["Restitution", "number"],
+        ["TwistLimitsEnabled", "boolean"],
+        ["TwistLowerAngle", "number"],
+        ["TwistUpperAngle", "number"],
+        ["UpperAngle", "number"]
+    ],
+    "BrickColorValue": [
+        ["Value", "BrickColor"]
+    ],
+    "Accoutrement": [
+        ["AttachmentForward", "Vector3"],
+        ["AttachmentPoint", "CFrame"],
+        ["AttachmentPos", "Vector3"],
+        ["AttachmentRight", "Vector3"],
+        ["AttachmentUp", "Vector3"]
+    ],
+    "Attachment": [
+        ["Axis", "Vector3"],
+        ["CFrame", "CFrame"],
+        ["Orientation", "Vector3"],
+        ["Position", "Vector3"],
+        ["SecondaryAxis", "Vector3"],
+        ["Visible", "boolean"],
+        ["WorldAxis", "Vector3"],
+        ["WorldCFrame", "CFrame"],
+        ["WorldOrientation", "Vector3"],
+        ["WorldPosition", "Vector3"],
+        ["WorldSecondaryAxis", "Vector3"]
+    ],
+    "PitchShiftSoundEffect": [
+        ["Octave", "number"]
+    ],
+    "ImageButton": [
+        ["HoverImage", "string"],
+        ["Image", "string"],
+        ["ImageColor3", "Color3"],
+        ["ImageRectOffset", "Vector2"],
+        ["ImageRectSize", "Vector2"],
+        ["ImageTransparency", "number"],
+        ["PressedImage", "string"],
+        ["ResampleMode", "EnumItem"],
+        ["ScaleType", "EnumItem"],
+        ["SliceCenter", "Rect"],
+        ["SliceScale", "number"],
+        ["TileSize", "UDim2"]
+    ],
+    "DialogChoice": [
+        ["GoodbyeChoiceActive", "boolean"],
+        ["GoodbyeDialog", "string"],
+        ["ResponseDialog", "string"],
+        ["UserDialog", "string"]
+    ],
+    "NumberValue": [
+        ["Value", "number"]
+    ],
+    "CylindricalConstraint": [
+        ["AngularActuatorType", "EnumItem"],
+        ["AngularLimitsEnabled", "boolean"],
+        ["AngularResponsiveness", "number"],
+        ["AngularRestitution", "number"],
+        ["AngularSpeed", "number"],
+        ["AngularVelocity", "number"],
+        ["InclinationAngle", "number"],
+        ["LowerAngle", "number"],
+        ["MotorMaxAngularAcceleration", "number"],
+        ["MotorMaxTorque", "number"],
+        ["RotationAxisVisible", "boolean"],
+        ["ServoMaxTorque", "number"],
+        ["TargetAngle", "number"],
+        ["UpperAngle", "number"]
+    ],
+    "TerrainDetail": [
+        ["Face", "EnumItem"],
+        ["MaterialPattern", "EnumItem"],
+        ["StudsPerTile", "number"]
+    ],
+    "Smoke": [
+        ["Color", "Color3"],
+        ["Enabled", "boolean"],
+        ["Opacity", "number"],
+        ["RiseVelocity", "number"],
+        ["Size", "number"],
+        ["TimeScale", "number"]
+    ],
+    "SurfaceGui": [
+        ["Active", "boolean"],
+        ["Adornee", "nil"],
+        ["AlwaysOnTop", "boolean"],
+        ["Brightness", "number"],
+        ["CanvasSize", "Vector2"],
+        ["ClipsDescendants", "boolean"],
+        ["Face", "EnumItem"],
+        ["LightInfluence", "number"],
+        ["PixelsPerStud", "number"],
+        ["SizingMode", "EnumItem"],
+        ["ToolPunchThroughDistance", "number"],
+        ["ZOffset", "number"]
+    ],
+    "Accessory": [],
+    "LineForce": [
+        ["ApplyAtCenterOfMass", "boolean"],
+        ["InverseSquareLaw", "boolean"],
+        ["Magnitude", "number"],
+        ["MaxForce", "number"],
+        ["ReactionForceEnabled", "boolean"]
+    ],
+    "Skin": [
+        ["SkinColor", "BrickColor"]
+    ],
+    "KeyframeMarker": [
+        ["Value", "string"]
+    ],
+    "CFrameValue": [
+        ["Value", "CFrame"]
+    ],
+    "ImageLabel": [
+        ["Image", "string"],
+        ["ImageColor3", "Color3"],
+        ["ImageRectOffset", "Vector2"],
+        ["ImageRectSize", "Vector2"],
+        ["ImageTransparency", "number"],
+        ["ResampleMode", "EnumItem"],
+        ["ScaleType", "EnumItem"],
+        ["SliceCenter", "Rect"],
+        ["SliceScale", "number"],
+        ["TileSize", "UDim2"]
+    ],
+    "Animation": [
+        ["AnimationId", "string"]
+    ],
+    "IntConstrainedValue": [
+        ["MaxValue", "number"],
+        ["MinValue", "number"],
+        ["Value", "number"]
+    ],
+    "Torque": [
+        ["RelativeTo", "EnumItem"],
+        ["Torque", "Vector3"]
+    ],
+    "UniversalConstraint": [
+        ["LimitsEnabled", "boolean"],
+        ["MaxAngle", "number"],
+        ["Radius", "number"],
+        ["Restitution", "number"]
+    ],
+    "PointLight": [
+        ["Range", "number"]
+    ],
+    "EqualizerSoundEffect": [
+        ["HighGain", "number"],
+        ["LowGain", "number"],
+        ["MidGain", "number"]
+    ],
+    "Model": [
+        ["PrimaryPart", "nil"],
+        ["WorldPivot", "CFrame"]
+    ],
+    "DoubleConstrainedValue": [
+        ["MaxValue", "number"],
+        ["MinValue", "number"],
+        ["Value", "number"]
+    ],
+    "BodyAngularVelocity": [
+        ["AngularVelocity", "Vector3"],
+        ["MaxTorque", "Vector3"],
+        ["P", "number"]
+    ],
+    "VelocityMotor": [
+        ["CurrentAngle", "number"],
+        ["DesiredAngle", "number"],
+        ["Hole", "nil"],
+        ["MaxVelocity", "number"]
+    ],
+    "RocketPropulsion": [
+        ["CartoonFactor", "number"],
+        ["MaxSpeed", "number"],
+        ["MaxThrust", "number"],
+        ["MaxTorque", "Vector3"],
+        ["Target", "nil"],
+        ["TargetOffset", "Vector3"],
+        ["TargetRadius", "number"],
+        ["ThrustD", "number"],
+        ["ThrustP", "number"],
+        ["TurnD", "number"],
+        ["TurnP", "number"]
+    ],
+    "SurfaceSelection": [
+        ["TargetSurface", "EnumItem"]
+    ],
+    "ReflectionMetadataClass": [
+        ["ExplorerImageIndex", "number"],
+        ["ExplorerOrder", "number"],
+        ["Insertable", "boolean"],
+        ["PreferredParent", "string"]
+    ],
+    "CanvasGroup": [
+        ["GroupTransparency", "number"]
+    ],
+    "SpotLight": [
+        ["Angle", "number"],
+        ["Face", "EnumItem"],
+        ["Range", "number"]
+    ],
+    "SelectionPartLasso": [
+        ["Part", "nil"]
+    ],
+    "Bone": [
+        ["Transform", "CFrame"]
+    ],
+    "TeleportOptions": [
+        ["ReservedServerAccessCode", "string"],
+        ["ServerInstanceId", "string"],
+        ["ShouldReserveServer", "boolean"]
+    ],
+    "TerrainRegion": [],
+    "Texture": [
+        ["OffsetStudsU", "number"],
+        ["OffsetStudsV", "number"],
+        ["StudsPerTileU", "number"],
+        ["StudsPerTileV", "number"]
+    ],
+    "Script": [],
+    "RayValue": [
+        ["Value", "Ray"]
+    ],
+    "LineHandleAdornment": [
+        ["Length", "number"],
+        ["Thickness", "number"]
+    ],
+    "RenderingTest": [
+        ["CFrame", "CFrame"],
+        ["ComparisonDiffThreshold", "number"],
+        ["ComparisonMethod", "EnumItem"],
+        ["ComparisonPsnrThreshold", "number"],
+        ["Description", "string"],
+        ["FieldOfView", "number"],
+        ["Orientation", "Vector3"],
+        ["Position", "Vector3"],
+        ["QualityLevel", "number"],
+        ["ShouldSkip", "boolean"],
+        ["Ticket", "string"]
+    ],
+    "DepthOfFieldEffect": [
+        ["FarIntensity", "number"],
+        ["FocusDistance", "number"],
+        ["InFocusRadius", "number"],
+        ["NearIntensity", "number"]
+    ],
+    "HumanoidDescription": [
+        ["BackAccessory", "string"],
+        ["BodyTypeScale", "number"],
+        ["ClimbAnimation", "number"],
+        ["DepthScale", "number"],
+        ["Face", "number"],
+        ["FaceAccessory", "string"],
+        ["FallAnimation", "number"],
+        ["FrontAccessory", "string"],
+        ["GraphicTShirt", "number"],
+        ["HairAccessory", "string"],
+        ["HatAccessory", "string"],
+        ["Head", "number"],
+        ["HeadColor", "Color3"],
+        ["HeadScale", "number"],
+        ["HeightScale", "number"],
+        ["IdleAnimation", "number"],
+        ["JumpAnimation", "number"],
+        ["LeftArm", "number"],
+        ["LeftArmColor", "Color3"],
+        ["LeftLeg", "number"],
+        ["LeftLegColor", "Color3"],
+        ["NeckAccessory", "string"],
+        ["Pants", "number"],
+        ["ProportionScale", "number"],
+        ["RightArm", "number"],
+        ["RightArmColor", "Color3"],
+        ["RightLeg", "number"],
+        ["RightLegColor", "Color3"],
+        ["RunAnimation", "number"],
+        ["Shirt", "number"],
+        ["ShouldersAccessory", "string"],
+        ["SwimAnimation", "number"],
+        ["Torso", "number"],
+        ["TorsoColor", "Color3"],
+        ["WaistAccessory", "string"],
+        ["WalkAnimation", "number"],
+        ["WidthScale", "number"]
+    ],
+    "UIPageLayout": [
+        ["Animated", "boolean"],
+        ["Circular", "boolean"],
+        ["EasingDirection", "EnumItem"],
+        ["EasingStyle", "EnumItem"],
+        ["GamepadInputEnabled", "boolean"],
+        ["Padding", "UDim"],
+        ["ScrollWheelInputEnabled", "boolean"],
+        ["TouchInputEnabled", "boolean"],
+        ["TweenTime", "number"]
+    ],
+    "MarkerCurve": [],
+    "DistortionSoundEffect": [
+        ["Level", "number"]
+    ],
+    "FunctionalTest": [
+        ["Description", "string"]
+    ],
+    "BillboardGui": [
+        ["Active", "boolean"],
+        ["Adornee", "nil"],
+        ["AlwaysOnTop", "boolean"],
+        ["Brightness", "number"],
+        ["ClipsDescendants", "boolean"],
+        ["DistanceLowerLimit", "number"],
+        ["DistanceStep", "number"],
+        ["DistanceUpperLimit", "number"],
+        ["ExtentsOffset", "Vector3"],
+        ["ExtentsOffsetWorldSpace", "Vector3"],
+        ["LightInfluence", "number"],
+        ["MaxDistance", "number"],
+        ["PlayerToHideFrom", "nil"],
+        ["Size", "UDim2"],
+        ["SizeOffset", "Vector2"],
+        ["StudsOffset", "Vector3"],
+        ["StudsOffsetWorldSpace", "Vector3"]
+    ],
+    "BodyThrust": [
+        ["Force", "Vector3"],
+        ["Location", "Vector3"]
+    ],
+    "Team": [
+        ["AutoAssignable", "boolean"],
+        ["TeamColor", "BrickColor"]
+    ],
+    "UIStroke": [
+        ["ApplyStrokeMode", "EnumItem"],
+        ["Color", "Color3"],
+        ["Enabled", "boolean"],
+        ["LineJoinMode", "EnumItem"],
+        ["Thickness", "number"],
+        ["Transparency", "number"]
+    ],
+    "FlangeSoundEffect": [
+        ["Depth", "number"],
+        ["Mix", "number"],
+        ["Rate", "number"]
+    ],
+    "EchoSoundEffect": [
+        ["Delay", "number"],
+        ["DryLevel", "number"],
+        ["Feedback", "number"],
+        ["WetLevel", "number"]
+    ],
+    "ViewportFrame": [
+        ["Ambient", "Color3"],
+        ["CurrentCamera", "nil"],
+        ["ImageColor3", "Color3"],
+        ["ImageTransparency", "number"],
+        ["LightColor", "Color3"],
+        ["LightDirection", "Vector3"]
+    ],
+    "SpawnLocation": [
+        ["AllowTeamChangeOnTouch", "boolean"],
+        ["Duration", "number"],
+        ["Enabled", "boolean"],
+        ["Neutral", "boolean"],
+        ["TeamColor", "BrickColor"]
+    ],
+    "BlurEffect": [
+        ["Size", "number"]
+    ],
+    "UITextSizeConstraint": [
+        ["MaxTextSize", "number"],
+        ["MinTextSize", "number"]
+    ],
+    "ScreenGui": [
+        ["DisplayOrder", "number"],
+        ["IgnoreGuiInset", "boolean"]
+    ],
+    "BodyGyro": [
+        ["CFrame", "CFrame"],
+        ["D", "number"],
+        ["MaxTorque", "Vector3"],
+        ["P", "number"]
+    ],
+    "WrapLayer": [
+        ["Enabled", "boolean"],
+        ["Order", "number"],
+        ["Puffiness", "number"]
+    ],
+    "NoCollisionConstraint": [
+        ["Enabled", "boolean"],
+        ["Part0", "nil"],
+        ["Part1", "nil"]
+    ],
+    "ForceField": [
+        ["Visible", "boolean"]
+    ],
+    "NumberPose": [
+        ["Value", "number"]
+    ],
+    "SpecialMesh": [
+        ["MeshType", "EnumItem"]
+    ],
+    "WeldConstraint": [
+        ["Enabled", "boolean"],
+        ["Part0", "nil"],
+        ["Part1", "nil"]
+    ],
+    "FileMesh": [
+        ["MeshId", "string"],
+        ["TextureId", "string"]
+    ],
+    "Shirt": [
+        ["ShirtTemplate", "string"]
+    ],
+    "FlagStand": [
+        ["TeamColor", "BrickColor"]
+    ],
+    "Color3Value": [
+        ["Value", "Color3"]
+    ],
+    "Clouds": [
+        ["Color", "Color3"],
+        ["Cover", "number"],
+        ["Density", "number"],
+        ["Enabled", "boolean"]
+    ],
+    "SkateboardPlatform": [
+        ["Steer", "number"],
+        ["StickyWheels", "boolean"],
+        ["Throttle", "number"]
+    ],
+    "Seat": [
+        ["Disabled", "boolean"]
+    ],
+    "DebuggerWatch": [],
+    "SkateboardController": [],
+    "Beam": [
+        ["Attachment0", "nil"],
+        ["Attachment1", "nil"],
+        ["Brightness", "number"],
+        ["Color", "ColorSequence"],
+        ["CurveSize0", "number"],
+        ["CurveSize1", "number"],
+        ["Enabled", "boolean"],
+        ["FaceCamera", "boolean"],
+        ["LightEmission", "number"],
+        ["LightInfluence", "number"],
+        ["Segments", "number"],
+        ["Texture", "string"],
+        ["TextureLength", "number"],
+        ["TextureMode", "EnumItem"],
+        ["TextureSpeed", "number"],
+        ["Transparency", "NumberSequence"],
+        ["Width0", "number"],
+        ["Width1", "number"],
+        ["ZOffset", "number"]
+    ],
+    "PathfindingModifier": [
+        ["Label", "string"],
+        ["PassThrough", "boolean"]
+    ],
+    "Frame": [
+        ["Style", "EnumItem"]
+    ],
+    "BloomEffect": [
+        ["Intensity", "number"],
+        ["Size", "number"],
+        ["Threshold", "number"]
+    ],
+    "MaterialVariant": [
+        ["MaterialPattern", "EnumItem"],
+        ["StudsPerTile", "number"]
+    ],
+    "Decal": [
+        ["Color3", "Color3"],
+        ["Texture", "string"],
+        ["Transparency", "number"],
+        ["ZIndex", "number"]
+    ],
+    "RigidConstraint": [],
+    "ImageHandleAdornment": [
+        ["Image", "string"],
+        ["Size", "Vector2"]
+    ],
+    "ParticleEmitter": [
+        ["Acceleration", "Vector3"],
+        ["Brightness", "number"],
+        ["Color", "ColorSequence"],
+        ["Drag", "number"],
+        ["EmissionDirection", "EnumItem"],
+        ["Enabled", "boolean"],
+        ["FlipbookFramerate", "NumberRange"],
+        ["FlipbookIncompatible", "string"],
+        ["FlipbookLayout", "EnumItem"],
+        ["FlipbookMode", "EnumItem"],
+        ["FlipbookStartRandom", "boolean"],
+        ["Lifetime", "NumberRange"],
+        ["LightEmission", "number"],
+        ["LightInfluence", "number"],
+        ["LockedToPart", "boolean"],
+        ["Orientation", "EnumItem"],
+        ["Rate", "number"],
+        ["RotSpeed", "NumberRange"],
+        ["Rotation", "NumberRange"],
+        ["Shape", "EnumItem"],
+        ["ShapeInOut", "EnumItem"],
+        ["ShapePartial", "number"],
+        ["ShapeStyle", "EnumItem"],
+        ["Size", "NumberSequence"],
+        ["Speed", "NumberRange"],
+        ["SpreadAngle", "Vector2"],
+        ["Squash", "NumberSequence"],
+        ["Texture", "string"],
+        ["TimeScale", "number"],
+        ["Transparency", "NumberSequence"],
+        ["VelocityInheritance", "number"],
+        ["ZOffset", "number"]
+    ],
+    "Flag": [
+        ["TeamColor", "BrickColor"]
+    ],
+    "AlignOrientation": [
+        ["AlignType", "EnumItem"],
+        ["CFrame", "CFrame"],
+        ["MaxAngularVelocity", "number"],
+        ["MaxTorque", "number"],
+        ["Mode", "EnumItem"],
+        ["PrimaryAxis", "Vector3"],
+        ["PrimaryAxisOnly", "boolean"],
+        ["ReactionTorqueEnabled", "boolean"],
+        ["Responsiveness", "number"],
+        ["RigidityEnabled", "boolean"],
+        ["SecondaryAxis", "Vector3"]
+    ],
+    "ChorusSoundEffect": [
+        ["Depth", "number"],
+        ["Mix", "number"],
+        ["Rate", "number"]
+    ],
+    "EulerRotationCurve": [
+        ["RotationOrder", "EnumItem"]
+    ],
+    "StringValue": [
+        ["Value", "string"]
+    ],
+    "ObjectValue": [
+        ["Value", "nil"]
+    ],
+    "CharacterMesh": [
+        ["BaseTextureId", "number"],
+        ["BodyPart", "EnumItem"],
+        ["MeshId", "number"],
+        ["OverlayTextureId", "number"]
+    ],
+    "Explosion": [
+        ["BlastPressure", "number"],
+        ["BlastRadius", "number"],
+        ["DestroyJointRadiusPercent", "number"],
+        ["ExplosionType", "EnumItem"],
+        ["Position", "Vector3"],
+        ["TimeScale", "number"],
+        ["Visible", "boolean"]
+    ],
+    "ArcHandles": [
+        ["Axes", "Axes"]
+    ],
+    "SurfaceLight": [
+        ["Angle", "number"],
+        ["Face", "EnumItem"],
+        ["Range", "number"]
+    ],
+    "BodyForce": [
+        ["Force", "Vector3"]
+    ],
+    "UIListLayout": [
+        ["Padding", "UDim"]
+    ],
+    "TextButton": [
+        ["Font", "EnumItem"],
+        ["FontFace", "Font"],
+        ["LineHeight", "number"],
+        ["MaxVisibleGraphemes", "number"],
+        ["RichText", "boolean"],
+        ["Text", "string"],
+        ["TextColor3", "Color3"],
+        ["TextScaled", "boolean"],
+        ["TextSize", "number"],
+        ["TextStrokeColor3", "Color3"],
+        ["TextStrokeTransparency", "number"],
+        ["TextTransparency", "number"],
+        ["TextTruncate", "EnumItem"],
+        ["TextWrapped", "boolean"],
+        ["TextXAlignment", "EnumItem"],
+        ["TextYAlignment", "EnumItem"]
+    ],
+    "BodyPosition": [
+        ["D", "number"],
+        ["MaxForce", "Vector3"],
+        ["P", "number"],
+        ["Position", "Vector3"]
+    ],
+    "Dialog": [
+        ["BehaviorType", "EnumItem"],
+        ["ConversationDistance", "number"],
+        ["GoodbyeChoiceActive", "boolean"],
+        ["GoodbyeDialog", "string"],
+        ["InUse", "boolean"],
+        ["InitialPrompt", "string"],
+        ["Purpose", "EnumItem"],
+        ["Tone", "EnumItem"],
+        ["TriggerDistance", "number"],
+        ["TriggerOffset", "Vector3"]
+    ],
+    "CustomEventReceiver": [
+        ["Source", "nil"]
+    ],
+    "Handles": [
+        ["Faces", "Faces"],
+        ["Style", "EnumItem"]
+    ],
+    "ModuleScript": [
+        ["LinkedSource", "string"]
+    ],
+    "Motor6D": [],
+    "UITableLayout": [
+        ["FillEmptySpaceColumns", "boolean"],
+        ["FillEmptySpaceRows", "boolean"],
+        ["MajorAxis", "EnumItem"],
+        ["Padding", "UDim2"]
+    ],
+    "BodyColors": [
+        ["HeadColor", "BrickColor"],
+        ["HeadColor3", "Color3"],
+        ["LeftArmColor", "BrickColor"],
+        ["LeftArmColor3", "Color3"],
+        ["LeftLegColor", "BrickColor"],
+        ["LeftLegColor3", "Color3"],
+        ["RightArmColor", "BrickColor"],
+        ["RightArmColor3", "Color3"],
+        ["RightLegColor", "BrickColor"],
+        ["RightLegColor3", "Color3"],
+        ["TorsoColor", "BrickColor"],
+        ["TorsoColor3", "Color3"]
+    ],
+    "Trail": [
+        ["Attachment0", "nil"],
+        ["Attachment1", "nil"],
+        ["Brightness", "number"],
+        ["Color", "ColorSequence"],
+        ["Enabled", "boolean"],
+        ["FaceCamera", "boolean"],
+        ["Lifetime", "number"],
+        ["LightEmission", "number"],
+        ["LightInfluence", "number"],
+        ["MaxLength", "number"],
+        ["MinLength", "number"],
+        ["Texture", "string"],
+        ["TextureLength", "number"],
+        ["TextureMode", "EnumItem"],
+        ["Transparency", "NumberSequence"],
+        ["WidthScale", "NumberSequence"]
+    ],
+    "ColorCorrectionEffect": [
+        ["Brightness", "number"],
+        ["Contrast", "number"],
+        ["Saturation", "number"],
+        ["TintColor", "Color3"]
+    ],
+    "Pants": [
+        ["PantsTemplate", "string"]
+    ],
+    "Atmosphere": [
+        ["Color", "Color3"],
+        ["Decay", "Color3"],
+        ["Density", "number"],
+        ["Glare", "number"],
+        ["Haze", "number"],
+        ["Offset", "number"]
+    ],
+    "PartOperation": [
+        ["UsePartColor", "boolean"]
+    ],
+    "RopeConstraint": [
+        ["Length", "number"],
+        ["Restitution", "number"],
+        ["Thickness", "number"],
+        ["WinchEnabled", "boolean"],
+        ["WinchForce", "number"],
+        ["WinchResponsiveness", "number"],
+        ["WinchSpeed", "number"],
+        ["WinchTarget", "number"]
+    ],
+    "Tween": [],
+    "TextChatCommand": [
+        ["Enabled", "boolean"],
+        ["PrimaryAlias", "string"],
+        ["SecondaryAlias", "string"]
+    ],
+    "SphereHandleAdornment": [
+        ["Radius", "number"]
+    ],
+    "TremoloSoundEffect": [
+        ["Depth", "number"],
+        ["Duty", "number"],
+        ["Frequency", "number"]
+    ],
+    "Tool": [
+        ["CanBeDropped", "boolean"],
+        ["Enabled", "boolean"],
+        ["Grip", "CFrame"],
+        ["GripForward", "Vector3"],
+        ["GripPos", "Vector3"],
+        ["GripRight", "Vector3"],
+        ["GripUp", "Vector3"],
+        ["ManualActivationOnly", "boolean"],
+        ["RequiresHandle", "boolean"],
+        ["ToolTip", "string"]
+    ],
+    "SelectionBox": [
+        ["LineThickness", "number"],
+        ["SurfaceColor3", "Color3"],
+        ["SurfaceTransparency", "number"]
+    ],
+    "FaceControls": [],
+    "ProximityPromptService": [
+        ["Enabled", "boolean"],
+        ["MaxPromptsVisible", "number"]
+    ],
+    "VideoFrame": [
+        ["Looped", "boolean"],
+        ["Playing", "boolean"],
+        ["TimePosition", "number"],
+        ["Video", "string"],
+        ["Volume", "number"]
+    ],
+    "ReverbSoundEffect": [
+        ["DecayTime", "number"],
+        ["Density", "number"],
+        ["Diffusion", "number"],
+        ["DryLevel", "number"],
+        ["WetLevel", "number"]
+    ],
+    "SelectionPointLasso": [
+        ["Point", "Vector3"]
+    ],
+    "IntValue": [
+        ["Value", "number"]
+    ],
+    "Sparkles": [
+        ["Enabled", "boolean"],
+        ["SparkleColor", "Color3"],
+        ["TimeScale", "number"]
+    ],
+    "FloorWire": [
+        ["CycleOffset", "number"],
+        ["From", "nil"],
+        ["StudsBetweenTextures", "number"],
+        ["Texture", "string"],
+        ["TextureSize", "Vector2"],
+        ["To", "nil"],
+        ["Velocity", "number"],
+        ["WireRadius", "number"]
+    ],
+    "TrussPart": [
+        ["Style", "EnumItem"]
+    ],
+    "SelectionSphere": [
+        ["SurfaceColor3", "Color3"],
+        ["SurfaceTransparency", "number"]
+    ],
+    "ProximityPrompt": [
+        ["ActionText", "string"],
+        ["AutoLocalize", "boolean"],
+        ["ClickablePrompt", "boolean"],
+        ["Enabled", "boolean"],
+        ["Exclusivity", "EnumItem"],
+        ["GamepadKeyCode", "EnumItem"],
+        ["HoldDuration", "number"],
+        ["KeyboardKeyCode", "EnumItem"],
+        ["MaxActivationDistance", "number"],
+        ["ObjectText", "string"],
+        ["RequiresLineOfSight", "boolean"],
+        ["RootLocalizationTable", "nil"],
+        ["Style", "EnumItem"],
+        ["UIOffset", "Vector2"]
+    ],
+    "CompressorSoundEffect": [
+        ["Attack", "number"],
+        ["GainMakeup", "number"],
+        ["Ratio", "number"],
+        ["Release", "number"],
+        ["SideChain", "nil"],
+        ["Threshold", "number"]
+    ],
+    "FloatCurve": [],
+    "SurfaceAppearance": [],
+    "HopperBin": [
+        ["Active", "boolean"],
+        ["BinType", "EnumItem"]
+    ],
+    "TextBox": [
+        ["ClearTextOnFocus", "boolean"],
+        ["CursorPosition", "number"],
+        ["Font", "EnumItem"],
+        ["FontFace", "Font"],
+        ["LineHeight", "number"],
+        ["MaxVisibleGraphemes", "number"],
+        ["MultiLine", "boolean"],
+        ["PlaceholderColor3", "Color3"],
+        ["PlaceholderText", "string"],
+        ["RichText", "boolean"],
+        ["SelectionStart", "number"],
+        ["ShowNativeInput", "boolean"],
+        ["Text", "string"],
+        ["TextColor3", "Color3"],
+        ["TextEditable", "boolean"],
+        ["TextScaled", "boolean"],
+        ["TextSize", "number"],
+        ["TextStrokeColor3", "Color3"],
+        ["TextStrokeTransparency", "number"],
+        ["TextTransparency", "number"],
+        ["TextTruncate", "EnumItem"],
+        ["TextWrapped", "boolean"],
+        ["TextXAlignment", "EnumItem"],
+        ["TextYAlignment", "EnumItem"]
+    ],
+    "Sky": [
+        ["CelestialBodiesShown", "boolean"],
+        ["MoonAngularSize", "number"],
+        ["MoonTextureId", "string"],
+        ["SkyboxBk", "string"],
+        ["SkyboxDn", "string"],
+        ["SkyboxFt", "string"],
+        ["SkyboxLf", "string"],
+        ["SkyboxRt", "string"],
+        ["SkyboxUp", "string"],
+        ["StarCount", "number"],
+        ["SunAngularSize", "number"],
+        ["SunTextureId", "string"]
+    ],
+    "Motor": [
+        ["CurrentAngle", "number"],
+        ["DesiredAngle", "number"],
+        ["MaxVelocity", "number"]
+    ],
+    "Glue": [
+        ["F0", "Vector3"],
+        ["F1", "Vector3"],
+        ["F2", "Vector3"],
+        ["F3", "Vector3"]
+    ],
+    "TorsionSpringConstraint": [
+        ["Coils", "number"],
+        ["Damping", "number"],
+        ["LimitsEnabled", "boolean"],
+        ["MaxAngle", "number"],
+        ["MaxTorque", "number"],
+        ["Radius", "number"],
+        ["Restitution", "number"],
+        ["Stiffness", "number"]
+    ],
+    "UIGridLayout": [
+        ["CellPadding", "UDim2"],
+        ["CellSize", "UDim2"],
+        ["FillDirectionMaxCells", "number"],
+        ["StartCorner", "EnumItem"]
+    ],
+    "TextChatMessageProperties": [
+        ["PrefixText", "string"],
+        ["Text", "string"]
+    ],
+    "TextLabel": [
+        ["Font", "EnumItem"],
+        ["FontFace", "Font"],
+        ["LineHeight", "number"],
+        ["MaxVisibleGraphemes", "number"],
+        ["RichText", "boolean"],
+        ["Text", "string"],
+        ["TextColor3", "Color3"],
+        ["TextScaled", "boolean"],
+        ["TextSize", "number"],
+        ["TextStrokeColor3", "Color3"],
+        ["TextStrokeTransparency", "number"],
+        ["TextTransparency", "number"],
+        ["TextTruncate", "EnumItem"],
+        ["TextWrapped", "boolean"],
+        ["TextXAlignment", "EnumItem"],
+        ["TextYAlignment", "EnumItem"]
+    ],
+    "SpringConstraint": [
+        ["Coils", "number"],
+        ["Damping", "number"],
+        ["FreeLength", "number"],
+        ["LimitsEnabled", "boolean"],
+        ["MaxForce", "number"],
+        ["MaxLength", "number"],
+        ["MinLength", "number"],
+        ["Radius", "number"],
+        ["Stiffness", "number"],
+        ["Thickness", "number"]
+    ],
+    "Fire": [
+        ["Color", "Color3"],
+        ["Enabled", "boolean"],
+        ["Heat", "number"],
+        ["SecondaryColor", "Color3"],
+        ["Size", "number"],
+        ["TimeScale", "number"]
+    ],
+    "RotationCurve": [],
+    "UIAspectRatioConstraint": [
+        ["AspectRatio", "number"],
+        ["AspectType", "EnumItem"],
+        ["DominantAxis", "EnumItem"]
+    ],
+    "TestService": [
+        ["AutoRuns", "boolean"],
+        ["Description", "string"],
+        ["ExecuteWithStudioRun", "boolean"],
+        ["Is30FpsThrottleEnabled", "boolean"],
+        ["IsPhysicsEnvironmentalThrottled", "boolean"],
+        ["IsSleepAllowed", "boolean"],
+        ["NumberOfPlayers", "number"],
+        ["SimulateSecondsLag", "number"],
+        ["Timeout", "number"]
+    ],
+    "SoundGroup": [
+        ["Volume", "number"]
+    ],
+    "UICorner": [
+        ["CornerRadius", "UDim"]
+    ],
+    "LocalizationTable": [
+        ["SourceLocaleId", "string"]
+    ],
+    "UISizeConstraint": [
+        ["MaxSize", "Vector2"],
+        ["MinSize", "Vector2"]
+    ],
+    "BodyVelocity": [
+        ["MaxForce", "Vector3"],
+        ["P", "number"],
+        ["Velocity", "Vector3"]
+    ],
+    "RodConstraint": [
+        ["Length", "number"],
+        ["LimitAngle0", "number"],
+        ["LimitAngle1", "number"],
+        ["LimitsEnabled", "boolean"],
+        ["Thickness", "number"]
+    ],
+    "ConeHandleAdornment": [
+        ["Height", "number"],
+        ["Radius", "number"]
+    ],
+    "SunRaysEffect": [
+        ["Intensity", "number"],
+        ["Spread", "number"]
+    ],
+    "Vector3Value": [
+        ["Value", "Vector3"]
+    ],
+    "VehicleSeat": [
+        ["Disabled", "boolean"],
+        ["HeadsUpDisplay", "boolean"],
+        ["MaxSpeed", "number"],
+        ["Steer", "number"],
+        ["SteerFloat", "number"],
+        ["Throttle", "number"],
+        ["ThrottleFloat", "number"],
+        ["Torque", "number"],
+        ["TurnSpeed", "number"]
+    ],
+    "VectorForce": [
+        ["ApplyAtCenterOfMass", "boolean"],
+        ["Force", "Vector3"],
+        ["RelativeTo", "EnumItem"]
+    ],
+    "BoolValue": [
+        ["Value", "boolean"]
+    ],
+    "UIPadding": [
+        ["PaddingBottom", "UDim"],
+        ["PaddingLeft", "UDim"],
+        ["PaddingRight", "UDim"],
+        ["PaddingTop", "UDim"]
+    ],
+    "Pose": [
+        ["CFrame", "CFrame"]
+    ],
+    "DataStoreOptions": [
+        ["AllScopes", "boolean"]
+    ],
+    "UIScale": [
+        ["Scale", "number"]
+    ],
+    "Sound": [
+        ["Looped", "boolean"],
+        ["PlayOnRemove", "boolean"],
+        ["PlaybackSpeed", "number"],
+        ["Playing", "boolean"],
+        ["RollOffMaxDistance", "number"],
+        ["RollOffMinDistance", "number"],
+        ["RollOffMode", "EnumItem"],
+        ["SoundGroup", "nil"],
+        ["SoundId", "string"],
+        ["TimePosition", "number"],
+        ["Volume", "number"]
+    ],
+    "ClickDetector": [
+        ["CursorIcon", "string"],
+        ["MaxActivationDistance", "number"]
+    ],
+    "LinearVelocity": [
+        ["LineDirection", "Vector3"],
+        ["LineVelocity", "number"],
+        ["MaxForce", "number"],
+        ["PlaneVelocity", "Vector2"],
+        ["PrimaryTangentAxis", "Vector3"],
+        ["RelativeTo", "EnumItem"],
+        ["SecondaryTangentAxis", "Vector3"],
+        ["VectorVelocity", "Vector3"],
+        ["VelocityConstraintMode", "EnumItem"]
+    ],
+    "PluginAction": [],
+    "AlignPosition": [
+        ["ApplyAtCenterOfMass", "boolean"],
+        ["MaxForce", "number"],
+        ["MaxVelocity", "number"],
+        ["Mode", "EnumItem"],
+        ["Position", "Vector3"],
+        ["ReactionForceEnabled", "boolean"],
+        ["Responsiveness", "number"],
+        ["RigidityEnabled", "boolean"]
+    ],
+    "WrapTarget": [],
+    "HingeConstraint": [
+        ["ActuatorType", "EnumItem"],
+        ["AngularResponsiveness", "number"],
+        ["AngularSpeed", "number"],
+        ["AngularVelocity", "number"],
+        ["LimitsEnabled", "boolean"],
+        ["LowerAngle", "number"],
+        ["MotorMaxAcceleration", "number"],
+        ["MotorMaxTorque", "number"],
+        ["Radius", "number"],
+        ["Restitution", "number"],
+        ["ServoMaxTorque", "number"],
+        ["TargetAngle", "number"],
+        ["UpperAngle", "number"]
+    ],
+    "Message": [
+        ["Text", "string"]
+    ],
+    "Camera": [
+        ["CFrame", "CFrame"],
+        ["CameraSubject", "nil"],
+        ["CameraType", "EnumItem"],
+        ["DiagonalFieldOfView", "number"],
+        ["FieldOfView", "number"],
+        ["FieldOfViewMode", "EnumItem"],
+        ["Focus", "CFrame"],
+        ["HeadLocked", "boolean"],
+        ["HeadScale", "number"],
+        ["MaxAxisFieldOfView", "number"]
+    ],
+    "UIGradient": [
+        ["Color", "ColorSequence"],
+        ["Enabled", "boolean"],
+        ["Offset", "Vector2"],
+        ["Rotation", "number"],
+        ["Transparency", "NumberSequence"]
+    ],
+    "Part": [
+        ["Shape", "EnumItem"]
+    ],
+    "PathfindingLink": [
+        ["Attachment0", "nil"],
+        ["Attachment1", "nil"],
+        ["IsBidirectional", "boolean"],
+        ["Label", "string"]
+    ],
+    "BoxHandleAdornment": [
+        ["Size", "Vector3"]
+    ],
+    "ScrollingFrame": [
+        ["AutomaticCanvasSize", "EnumItem"],
+        ["BottomImage", "string"],
+        ["CanvasPosition", "Vector2"],
+        ["CanvasSize", "UDim2"],
+        ["ElasticBehavior", "EnumItem"],
+        ["HorizontalScrollBarInset", "EnumItem"],
+        ["MidImage", "string"],
+        ["ScrollBarImageColor3", "Color3"],
+        ["ScrollBarImageTransparency", "number"],
+        ["ScrollBarThickness", "number"],
+        ["ScrollingDirection", "EnumItem"],
+        ["ScrollingEnabled", "boolean"],
+        ["TopImage", "string"],
+        ["VerticalScrollBarInset", "EnumItem"],
+        ["VerticalScrollBarPosition", "EnumItem"]
+    ],
+    "Keyframe": [
+        ["Time", "number"]
+    ]
+}
