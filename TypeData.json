@@ -1,0 +1,55 @@
+{
+  "Color3": [
+    ["R", "number"],
+    ["G", "number"],
+    ["B", "number"]
+  ],
+  "Vector3": [
+      ["Magnitude", "number"],
+      ["Unit", "Vector3"],
+      ["X", "number"],
+      ["Y", "number"],
+      ["Z", "number"],
+  ],
+  "CFrame": [
+      ["Position", "Vector3"],
+      ["Rotation", "CFrame"],
+      ["X", "number"],
+      ["Y", "number"],
+      ["Z", "number"],
+      ["UpVector", "Vector3"],
+      ["LookVector", "Vector3"],
+      ["RightVector", "Vector3"],
+      ["XVector", "Vector3"],
+      ["YVector", "Vector3"],
+      ["ZVector", "Vector3"],
+  ],
+  "BrickColor": [
+      ["Name", "string"],
+      ["Color", "Color3"],
+      ["r", "number"],
+      ["b", "number"],
+      ["g", "number"],
+      ["Number", "number"],
+  ],
+  "UDim": [
+      ["Scale", "number"],
+      ["Offset", "number"],
+  ],
+  "UDim2": [
+      ["X", "UDim"],
+      ["Y", "UDim"],
+      ["Width", "UDim"],
+      ["Height", "UDim"],
+  ],
+  "ColorSequence": [
+      ["Height", "table"],
+  ],
+  "NumberSequence": [
+      ["Height", "table"],
+  ],
+  "NumberRange": [
+      ["Max", "number"],
+      ["Min", "number"],
+  ]
+}
