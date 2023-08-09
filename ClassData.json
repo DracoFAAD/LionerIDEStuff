@@ -1134,7 +1134,28 @@
         ["Transparency", "NumberSequence"]
     ],
     "Part": [
-        ["Shape", "EnumItem"]
+        ["BrickColor", "BrickColor"],
+        ["CastShadow", "boolean"],
+        ["Color", "Color3"],
+        ["Material", "EnumItem"],
+        ["MaterialVariant", "string"],
+        ["Reflectance", "number"],
+        ["Transparency", "number"],
+        ["Locked", "boolean"],
+        ["Size", "Vector3"],
+        ["CFrame", "CFrame"],
+        ["PivotOffset", "CFrame"],
+        ["CanCollide", "boolean"],
+        ["CanQuery", "boolean"],
+        ["CanTouch", "boolean"],
+        ["CollisionGroup", "string"],
+        ["Anchored", "boolean"],
+        ["CustomPhysicalProperties", "PhysicalProperties"],
+        ["Massless", "boolean"],
+        ["RootPriority", "number"],
+        ["Shape", "EnumItem"],
+        ["AssemblyLinearVelocity", "Vector3"],
+        ["AssemblyAngularVelocity", "Vector3"]
     ],
     "PathfindingLink": [
         ["Attachment0", "nil"],
