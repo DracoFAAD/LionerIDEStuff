@@ -551,7 +551,7 @@
         ["SelectionBehaviorRight", "EnumItem"],
         ["SelectionBehaviorUp", "EnumItem"],
         ["SelectionOrder", "number"],
-        ["GuiState", "EnumItem"],
+        ["GuiState", "EnumItem"]
     ],
     "BloomEffect": [
         ["Intensity", "number"],
